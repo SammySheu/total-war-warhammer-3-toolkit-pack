@@ -225,3 +225,5 @@ noticed — both by other players and by the anti-cheat.
 ---
 
 *total-war-warhammer-3-toolkit-pack · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- updated 2026-10-24 -->
